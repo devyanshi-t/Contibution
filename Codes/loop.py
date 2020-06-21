@@ -3,7 +3,7 @@
 """
 Created on Fri Jun 19 16:53:29 2020
 
-@author: devyanshitiwari
+@author: devyanshi
 """
 
 if __name__ == '__main__':
